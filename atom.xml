@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-11T14:33:53.224Z</updated>
+  <updated>2021-05-29T07:53:57.120Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2021/05/29/Unity%20&amp;%20C#/"/>
+    <id>http://example.com/2021/05/29/Unity%20&amp;%20C#/</id>
+    <published>2021-05-29T07:47:12.962Z</published>
+    <updated>2021-05-29T07:53:57.120Z</updated>
+    
+    <content type="html"><![CDATA[        <h1 id="Unity-amp-C"   >          <a href="#Unity-amp-C" class="heading-link"><i class="fas fa-link"></i></a><a href="#Unity-amp-C" class="headerlink" title="Unity &amp; C#"></a>Unity &amp; C#</h1>              <h2 id="变量类型"   >          <a href="#变量类型" class="heading-link"><i class="fas fa-link"></i></a><a href="#变量类型" class="headerlink" title="变量类型"></a>变量类型</h2>      <p>布尔型</p><p>整型</p><p>浮点型：float number = 10.2f，一定要加f，不加就会认为是double，但是unity中只有float，没有double</p><p>字符型</p><p>字符串</p><p>类</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">
+        &lt;h1 id=&quot;Unity-amp-C&quot;   &gt;
+          &lt;a href=&quot;#Unity-amp-C&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#Unity-amp-C</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>my blog</title>
